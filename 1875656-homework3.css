@@ -1,0 +1,40 @@
+body{
+    background-color:lightgray;
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+h1{
+    color:rgb(234, 194, 16);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+header{
+    color:rgb(234, 194, 16);
+    background-color:rgb(29, 96, 167);
+    text-align: center;
+   
+}
+
+footer {
+    color:green;
+    text-align:center;
+
+}
+
+h3{
+    text-align:right;
+}
+div{
+    background-color: rgb(178, 217, 231);
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+.error{
+    color: red;
+    font-size: 11px;
+}
